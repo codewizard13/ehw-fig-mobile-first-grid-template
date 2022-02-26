@@ -30,23 +30,24 @@
   </a>
 
 
-<h1 align="center">EHW Code Challenge: ES6 Increment/Decrement Number</h1>
+<h1 align="center">Eric Hepperle Designs:</h1>
 
-<section>
-  <p align="center">
-    This project is a demonstration of ES6 and modern JavaScript principles.
-    I created as answer to code challenge with these requirements:<br>
-      Build form with plus and minus buttons that increment/decrement the number displayed in a field by one.<br>    
-    This challenge demonstrates <strong>Eric L. Hepperle's</strong> JavaScript knowledge and skills and ability to use event listeners.
+<h2 align="center">Mobile First UX Web Design Grid Template [2022]</h2>
+
+<h3 align="center">Created with: [Figma]</h3>
+
+This 3-panel web design template gives you a good starting place to mock-up your newest UX/UI and Web Design ideas! Each panel has both column and row grids for vertical harmony as well as horizontal. One caveat -- it is static, not "responsive".
+
+Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the Figma community. I hope you like it and that it can help you get started with your mobile-first web designs.
+
+    <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://erichepperle.com/sub/code-challenge/2021-ehw-es6-chal-numincdec/">View Demo</a>
+    <a href="https://erichepperle.com/sub/code-challenge/ehw-fig-mobile-first-grid-template/">View Demo</a>
     ·
-    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues">Report Bug</a>
+    <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues">Request Feature</a>
+    <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Request Feature</a>
   </p>
 
 <!-- TAGS -->
@@ -83,8 +84,8 @@
 
 ## About The Project
 
-**Screenshot 1: Live Demo on <a href="https://erichepperle.com/sub/code-challenge/2021-ehw-es6-chal-numincdec/" target="_blank">EricHepperle.com**</a>
-  
+**Screenshot 1: Live Demo on <a href="https://erichepperle.com/sub/code-challenge/ehw-fig-mobile-first-grid-template/" target="_blank">EricHepperle.com**</a>
+
 <img src="pix/ehdss-ehw-codechal-es6-incdec-01.jpg" title="demo screenshot" alt="demo screenshot" style="width: clamp(320px,48vw,600px); height: auto">
 
 **[JsFiddle.net][fiddle-url]**
@@ -142,7 +143,7 @@ Distributed under the GNU GPLv3 License. See [LICENSE.md](LICENSE.md) for more i
 
 Eric Hepperle - [LinkedIn][linkedin-url]
 
-Project Link: [https://github.com/codewizard13/2021-ehw-es6-chal-numincdec](https://github.com/codewizard13/2021-ehw-es6-chal-numincdec)
+Project Link: [https://github.com/codewizard13/ehw-fig-mobile-first-grid-template](https://github.com/codewizard13/ehw-fig-mobile-first-grid-template)
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -152,17 +153,17 @@ Project Link: [https://github.com/codewizard13/2021-ehw-es6-chal-numincdec](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
-[contributors-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
-[forks-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/network/members
-[stars-shield]: https://img.shields.io/github/stars/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
-[stars-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/stargazers
-[issues-shield]: https://img.shields.io/github/issues/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
-[issues-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues
-[license-shield]: https://img.shields.io/github/license/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
-[license-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/codewizard13/ehw-fig-mobile-first-grid-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codewizard13/ehw-fig-mobile-first-grid-template.svg?style=for-the-badge
+[forks-url]: https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/codewizard13/ehw-fig-mobile-first-grid-template.svg?style=for-the-badge
+[stars-url]: https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codewizard13/ehw-fig-mobile-first-grid-template.svg?style=for-the-badge
+[issues-url]: https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues
+[license-shield]: https://img.shields.io/github/license/codewizard13/ehw-fig-mobile-first-grid-template.svg?style=for-the-badge
+[license-url]: https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/erichepperle
-[product-screenshot]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/blob/master/pix/screenshot_fiddle.jpg
+[product-screenshot]: https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/blob/master/pix/screenshot_fiddle.jpg
 [fiddle-url]: https://jsfiddle.net/codeslayer2010/hmxrq7uj
