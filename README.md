@@ -60,13 +60,6 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
 
 ## About The Project
 
-**Screenshot 1: Live Demo on <a href="https://erichepperle.com/sub/code-challenge/ehw-fig-mobile-first-grid-template/" target="_blank">EricHepperle.com**</a>
-
-<img src="pix/ehdss-ehw-codechal-es6-incdec-01.jpg" title="demo screenshot" alt="demo screenshot" style="width: clamp(320px,48vw,600px); height: auto">
-
-**[JsFiddle.net][fiddle-url]**
-
-[![JSFiddle Screenshot][product-screenshot]][fiddle-url]
 
 | Creator:         | Eric Hepperle                                                |
 | ---------------- | ------------------------------------------------------------ |
