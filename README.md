@@ -46,8 +46,9 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
 
 <section>
     <a href="EHD_20220225_FGM_RespGrid_3Panel_MobileFirst_01.01.fig">Download the Figma design file</a>
-    <br>
 </section>
+
+<br>
 
 <!-- TAGS -->
 **TAGS:** `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
