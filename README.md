@@ -26,8 +26,9 @@
 
 <div align="center">
   <a href="https://erichepperle.com">
-    <img src="pix/ehd-logo-site-ehw-2022-01.png" alt="Logo">
+    <img src="pix/logo-eric-hepperle-designs.png" alt="Logo">
   </a>
+
 
 
 <h1 align="center">Eric Hepperle Designs:</h1>
