@@ -58,33 +58,34 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Project:
 
 
-| Creator:         | Eric Hepperle                                                |
-| ---------------- | ------------------------------------------------------------ |
-| Project Type:    | Code Challenge                                               |
-| Topic:           | Employment                                                   |
-| Subtopics:       | *Job Hunt*, *Interview Questions*, *Coding Interviews*, *JavaScript*, *ES6* |
-| Date Created:    | 2021-12-17                                                   |
-| Date Modified:   | 2022-02-26                                                           |
-| Project Version: | 1.01                                                         |
+| Creator:         | Eric Hepperle                |
+| ---------------- | ---------------------------- |
+| Project Type:    | ***Design Template***        |
+| Topic:           | DESIGN                       |
+| Subtopics:       | *UX*, *Web Design*, *Design* |
+| Date Created:    | 2021-12-17                   |
+| Date Modified:   | 2022-02-26                   |
+| Project Version: | 1.01                         |
 
-## JavaScript & Programming Concepts Demonstrated
-* Forms
-* ES6
-* `addEventListener()`
-* Simple Web App creation
-
----
-
-Thanks for checking out my demo!
+## Concepts Demonstrated:
+* Familiarity with Figma
+* Layout design
+* Web mockups
+* Grid-based design
+* Design principles
 
 ---
 
-### Built With
+Thanks for checking out my ***design template***!
 
-* [Vanilla JavaScript](https://thisinterestsme.com/vanilla-javascript/)
+---
+
+### Built With:
+
+* [Figma](https://www.figma.com/@erichepperle)
 * [JavaScript ES6](https://exploringjs.com/es6/)
 
 <!-- GETTING STARTED -->
