@@ -28,7 +28,7 @@
   <a href="https://erichepperle.com">
     <img src="pix/logo-eric-hepperle-designs.png" alt="Logo">
   </a>
-
+</div>
 
 
 <h1 align="center">Eric Hepperle Designs:</h1>
@@ -41,6 +41,7 @@ This 3-panel web design template gives you a good starting place to mock-up your
 
 Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the Figma community. I hope you like it and that it can help you get started with your mobile-first web designs.
 
+<section>
     <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -49,7 +50,7 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
     <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Report Bug</a>
     ·
     <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Request Feature</a>
-  </p>
+</section>
 
 <!-- TAGS -->
 **TAGS:** `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
