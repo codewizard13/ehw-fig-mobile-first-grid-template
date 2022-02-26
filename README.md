@@ -73,7 +73,7 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
 ## Concepts Demonstrated:
 * Familiarity with Figma
 * Layout design
-* Web mockups
+* Wireframes
 * Grid-based design
 * Design principles
 
