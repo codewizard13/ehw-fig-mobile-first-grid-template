@@ -78,12 +78,6 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
 * Design principles
 * Mobile-first responsive design
 
----
-
-Thanks for checking out my ***design template***!
-
----
-
 ### Built With:
 
 * [Figma](https://www.figma.com/@erichepperle)
@@ -118,6 +112,12 @@ Project Link: [https://github.com/codewizard13/ehw-fig-mobile-first-grid-templat
 ## Acknowledgments
 
 * Father God, The Lord Jesus Christ, and the Holy Spirit for opening doors where there were once only walls.
+
+---
+
+Thanks for checking out my ***design template***!
+
+---
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
