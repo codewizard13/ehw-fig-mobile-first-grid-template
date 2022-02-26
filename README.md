@@ -37,7 +37,7 @@
 
 <h3 align="center">Created with: [Figma]</h3>
 
-![Mobile First UX Web Design Grid Template [2022]](pix\ehd-ss-mobile-first-template-01.jpg)
+<img src="pix\ehd-ss-mobile-first-template-01.jpg" title="Mobile First UX Web Design Grid Template [2022]">
 
 
 This 3-panel web design template gives you a good starting place to mock-up your newest UX/UI and Web Design ideas! Each panel has both column and row grids for vertical harmony as well as horizontal. One caveat -- it is static, not "responsive".
