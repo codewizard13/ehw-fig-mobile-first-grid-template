@@ -37,8 +37,7 @@
 
 <h3 align="center">Created with: [Figma]</h3>
 
-![](C:\wamp64\www\prj\ehw-fig-mobile-first-grid-template\pix\ehd-ss-mobile-first-template-01.jpg)
-
+![Mobile First UX Web Design Grid Template [2022]](pix\ehd-ss-mobile-first-template-01.jpg)
 
 
 This 3-panel web design template gives you a good starting place to mock-up your newest UX/UI and Web Design ideas! Each panel has both column and row grids for vertical harmony as well as horizontal. One caveat -- it is static, not "responsive".
@@ -55,6 +54,7 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
     ·
     <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Request Feature</a>
 </section>
+
 <!-- TAGS -->
 **TAGS:** `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
 </div>
