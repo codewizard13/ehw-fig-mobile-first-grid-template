@@ -45,14 +45,7 @@ This 3-panel web design template gives you a good starting place to mock-up your
 Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the Figma community. I hope you like it and that it can help you get started with your mobile-first web designs.
 
 <section>
-    <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://erichepperle.com/sub/code-challenge/ehw-fig-mobile-first-grid-template/">View Demo</a>
-    ·
-    <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/codewizard13/ehw-fig-mobile-first-grid-template/issues">Request Feature</a>
+    <a href="EHD_20220225_FGM_RespGrid_3Panel_MobileFirst_01.01.fig">Download the Figma design file</a>
 </section>
 
 <!-- TAGS -->
