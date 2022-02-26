@@ -51,8 +51,8 @@ Hi, I'm Eric and I'm new to UX Design. This is my very first contribution to the
 <br>
 
 <!-- TAGS -->
-**TAGS:** `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
-</div>
+**TAGS:** `Figma` `UX Design` `Template`
+
 
 <!-- TABLE OF CONTENTS -->
 
