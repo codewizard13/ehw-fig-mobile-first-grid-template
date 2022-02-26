@@ -86,23 +86,20 @@ Thanks for checking out my ***design template***!
 ### Built With:
 
 * [Figma](https://www.figma.com/@erichepperle)
-* [JavaScript ES6](https://exploringjs.com/es6/)
 
 <!-- GETTING STARTED -->
 
-## Purpose:
-
-**<u>Code Challenge:</u>** Build form with plus and minus buttons that increment/decrement the number displayed in a field by one.
-
 ## Usage:
 
-Launch and use. Click "-" to remove one, "+" to add one.
+- Import into Figma and begin using.
 
 ## Requires:
 
 * Browser
+* Figma account
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the GNU GPLv3 License. See [LICENSE.md](LICENSE.md) for more information.
